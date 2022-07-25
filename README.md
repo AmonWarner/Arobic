@@ -28,4 +28,4 @@ ArobicOS is built using electron, so install electron using the tutorial at http
 - Focus apps when they start
 - Fix clock showing up on homescreen
 - Fix menu button click issue
-- nightmare
+- rewrite the entire damn thing in react lol 
